@@ -1,7 +1,7 @@
 # Projeto BD SQLite no Google Colab  
 
 ## Como Usar  
-1. Abra o notebook diretamente no Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seu-usuario/projeto-bd-colab/blob/main/Projeto-BD-SQLite.ipynb)  
+1. Abra o notebook diretamente no Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosHisoka/projeto-bd-colab/blob/main/Projeto-BD-SQLite.ipynb)  
 2. Execute cada célula em ordem (tecla `Ctrl+Enter`).  
 
 ## Estrutura do Projeto  
